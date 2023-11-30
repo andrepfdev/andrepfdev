@@ -13,11 +13,15 @@
 <div style="display: inline-block">
   <img width="48px" src="https://api.iconify.design/skill-icons:php-light.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:laravel-light.svg">
+  <img width="48px" src="https://api.iconify.design/skill-icons:wordpress.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:python-light.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:lua-light.svg">
   <img width="48px" src="https://api.iconify.design/devicon:docker-wordmark.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:mysql-light.svg">
   <img width="48px" src="https://api.iconify.design/devicon:dotnetcore.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:linux-light.svg">
-  <img width="48px" src="https://api.iconify.design/skill-icons:arduino.svg">
+  <img width="48px" src="https://api.iconify.design/skill-icons:arduino.svg"> 
+  <img width="48px" src="#">
+  <img width="48px" src="#">
+  
 </div>
