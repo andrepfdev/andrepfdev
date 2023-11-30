@@ -5,7 +5,7 @@
 🔭 Estou interessado(a) em trabalhar em projetos que me tornem um programador melhor. <br>
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. <br>
 
-⚡ Aqui está um link para meu Linkeding: <a href="https://www.linkedin.com/in/andrepf7">www.linkedin.com/in/andrepf7</a>
+⚡ Aqui está um link para meu Linkedin: <a href="https://www.linkedin.com/in/andrepf7" target="_blank">www.linkedin.com/in/andrepf7</a>
 
 😄 Obrigado por visitar meu perfil!
 
