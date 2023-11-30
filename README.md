@@ -18,6 +18,6 @@
   <img width="48px" src="https://api.iconify.design/devicon:docker-wordmark.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:mysql-light.svg">
   <img width="48px" src="https://api.iconify.design/devicon:dotnetcore.svg">
-  <img width="48px" src="https://api.iconify.design/skill-icons:vuejs-light.svg">
+  <img width="48px" src="https://api.iconify.design/skill-icons:linux-light.svg">
   <img width="48px" src="https://api.iconify.design/skill-icons:arduino.svg">
 </div>
