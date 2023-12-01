@@ -1,6 +1,6 @@
 ## 👋 Olá, sou André Pereira!
 
-✨ Sou um desenvolvedor de software apaixonado por tecnologia. Estou sempre procurando aprender coisas novas e me desafiar.<br>
+✨ Sou um desenvolvedor de software apaixonado por tecnologia.<br>
 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, o famoso ADS.<br>
 🔭 Estou interessado em trabalhar em projetos que me tornem um programador melhor.<br>
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.<br>
