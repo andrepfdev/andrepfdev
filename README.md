@@ -1,7 +1,7 @@
 ## 👋 Olá, sou André Pereira!
 
-✨ Desenvolvedor web profissional.<br>
-🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, o famoso ADS.<br>
+✨ Desenvolvedor backend PL.<br>
+🌱 Acadêmico de Análise e Desenvolvimento de Sistemas, o famoso ADS.<br>
 🔭 Estou interessado em trabalhar em projetos que me tornem um programador melhor.<br>
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.<br>
 
